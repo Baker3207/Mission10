@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\data\\bowlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:data\\bowlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\data\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:data\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|c:\\users\\alex\\source\\repos\\nocapreact\\fullstackfun\\backend\\apifun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9C890F6-EECE-42FA-B28D-0BF15177AAC7}|APIFun.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Data\\Team.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\Team.cs",
+              "RelativeToolTip": "Data\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:14:38.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T05:46:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:45:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:36:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\IBowlerRepository.cs",
+              "RelativeToolTip": "Data\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:35:20.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\BowlerContext.cs",
+              "RelativeDocumentMoniker": "Data\\BowlerContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\BowlerContext.cs",
+              "RelativeToolTip": "Data\\BowlerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:07:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowlers.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\Bowlers.cs",
+              "RelativeDocumentMoniker": "Data\\Bowlers.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Data\\Bowlers.cs",
+              "RelativeToolTip": "Data\\Bowlers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:46:23.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:42:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\NoCapReact\\FullStackFun\\backend\\APIFun\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T02:11:44.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
